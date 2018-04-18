@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Visual Servo Control--Part I: Basic Approaches
 
 ## 视觉伺服的基本组成
